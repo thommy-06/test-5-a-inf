@@ -1,0 +1,4 @@
+blu
+giallo
+verde
+fucsia
